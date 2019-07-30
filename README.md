@@ -1,2 +1,3 @@
-# 2008.opentechsummit.net
-OpenTechSummit Meetups 2008
+# thai.opentechsummit.asia
+OpenTechSummit Thailnd 2019
+https://thai.opentechsummit.asia
